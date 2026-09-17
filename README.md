@@ -15,11 +15,10 @@ Este proyecto presenta un análisis exploratorio y de segmentación de clientes 
 El objetivo principal es transformar los datos de clientes y uso de servicios en insights accionables para ConnectaTel.
 
 **A partir del análisis se busca responder:**
-- ¿Qué problemas de calidad presentaban originalmente los datos?
-- ¿Qué segmentos de clientes existen según edad y nivel de uso?
-- ¿Qué segmentos pueden representar mayor valor para ConnectaTel?
-- ¿Qué patrones de uso extremo se presentan?
-- ¿Qué oportunidades existen para mejorar los planes actuales o crear nuevas ofertas?
+- ¿Qué segmentos de clientes muestran mayor o menor uso de llamadas y mensajes?
+- ¿Qué usuarios presentan valores atípicos que puedan indicar comportamientos inusuales, fraude o errores de registro?
+- Cómo varía el uso según la edad y el tipo de plan contratado?
+- ¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
 
 # 🗂️ Datasets utilizados
 **Users**
